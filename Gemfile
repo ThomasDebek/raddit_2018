@@ -7,6 +7,10 @@ ruby '2.5.1'
 
 gem 'devise', '~> 4.5'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'simple_form'
+gem 'record_tag_helper', '~> 1.0'
+gem 'hirb', '~>0.7.0'
+
 
 gem 'rails', '~> 5.2.1'
 gem 'sqlite3'
